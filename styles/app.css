@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+
+* {
+	-webkit-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background: #f4f6f8;
+	color: #404448;
+	font: 400 10px/1.5 'PT Sans', Helvetica, Arial, sans-serif;
+}
+
+body {
+	background: none;
+	color: inherit;
+	font: inherit;
+}
+
+main {
+	font-size: 1.8rem;
+	padding: 2rem;
+}
